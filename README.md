@@ -1,17 +1,10 @@
 1. Write a simple program to print multiplication table of a certain number taken from user,
-
 For eg. 2 X 1 = 2
-
 2 X 2 = 4
-
 and so on.
+
 2. Write a program in which:
-
-· Take 10 values input from user using loop.
-
-· Print sum of all the numbers provided
-
-· Print the Average of those 10 values
+Take 10 values input from user using loop.Print sum of all the numbers provided.Print the Average of those 10 values
 
 3. Write a JAVA program that takes user input from 1 to 12 for months, and display number of days of a particular month. (Shows “Invalid Details“ if incorrect month number will be provided).
 
@@ -34,9 +27,9 @@ Input a year: 2016
 Expected Output :
 February 2016 has 29 days
 
-8· Write a Java program that takes a year from user and print whether that year is a leap year or not.
+8. Write a Java program that takes a year from user and print whether that year is a leap year or not.
 
-9· Write a program in Java to display the pattern like right angle triangle with a number.
+9. Write a program in Java to display the pattern like right angle triangle with a number.
 Test Data
 Input number of rows : 10
 Expected Output :
@@ -52,7 +45,7 @@ Expected Output :
 123456789
 12345678910
 
-10· Write a J program to display Pascal's triangle. ava
+10. Write a J program to display Pascal's triangle. ava
 Test Data
 Input number of rows: 5
 Expected Output :
@@ -64,4 +57,4 @@ Input number of rows: 5
 1 3 3 1
 1 4 6 4 1
 
-11· Write a Java program that accepts two floating­ point numbers and checks whether they are the same up to two decimal places.
+11. Write a Java program that accepts two floating­ point numbers and checks whether they are the same up to two decimal places.
